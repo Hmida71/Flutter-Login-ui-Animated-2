@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:You_App_Name/fade_animation.dart';
+import 'package:You_App_Name/animation/fade_animation.dart';
 
 
 void main() {
